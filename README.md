@@ -57,6 +57,8 @@ A simple, friendly AI chatbot built with **Streamlit** and **Mistral AI**, featu
    MISTRAL_API_KEY=your_api_key_here
    ```
 
+   > ⚠️ **Important:** The `.env` file is **not included** in this repo — you need to create it yourself and add your **own** Mistral AI API key. Get one from [console.mistral.ai](https://console.mistral.ai/). Without a valid key, the chatbot will not be able to connect to the model.
+
 ---
 
 ## 🚀 Usage
